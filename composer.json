@@ -1,0 +1,13 @@
+{
+    "name": "alexandre/paypal",
+    "authors": [
+        {
+            "name": "Alexandre Oliveira",
+            "email": "alexandre.oliveira@prodeb.ba.gov.br"
+        }
+    ],
+    "require": {
+        "paypal/rest-api-sdk-php" : "*",
+        "symfony/var-dumper": "*"
+    }
+}
